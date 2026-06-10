@@ -1,4 +1,4 @@
-# T2_Git_GarciaAdriana – Rama Desarrollo
+# T2_Git_GarciaAdrianaB – Rama Desarrollo
 
 Este archivo README.md corresponde a la rama **desarrollo** del proyecto.  
 Aquí se realizan pruebas y modificaciones antes de integrarlas en la rama principal (**master**).  
